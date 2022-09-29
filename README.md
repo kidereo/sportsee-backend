@@ -60,5 +60,5 @@ This project includes four endpoints that you will be able to use:
 
 ### 4.2 Examples of queries
 
-- `http://localhost:3000/user/12/performance` - Retrieves the performance of the user with id 12
-- `http://localhost:3000/user/18` - Retrieves user 18's main information.
+- `http://localhost:3003/user/12/performance` - Retrieves the performance of the user with id 12
+- `http://localhost:3003/user/18` - Retrieves user 18's main information.
